@@ -3,6 +3,7 @@
 En este repositorio se encuentra los códigos fuentes solicitados para esta práctica.
 Para poder ejecutar los programas, deberás lacalizarte el la carpeta del programa y realizar los siguientes comandos:
 ```
+$ mkdir build
 $ cd build
 $ cmake ..
 $ make
